@@ -9,9 +9,12 @@ As prerequisites you will need:
 - WebDriver (for your respective browser)
 
 ## How to use
-To use this program, run it from the python console.
-When running, you will need to log into whatsapp using the qr code manually.
-After this, it will work automatically.
-To change the output message, you can modify the [message] variable.
+To use this program, run `python whatsapp.py` from the console.
 
-To stop the program, you can use Ctrl+C.
+When running, you will need to log into whatsapp using the qr code manually.
+
+After this, it will work automatically.
+
+To change the output message, you can modify the `message` variable.
+
+To stop the program, you can use `Ctrl+C`.
